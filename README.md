@@ -6,9 +6,10 @@ Description
 ================
 <p>
 <ui>
-<li>This app give information about PNR Status details for India Railways.</li>
+<li>This app gives information about PNR Status (Seat Status) details for India Railways.</li>
 <li>It gets data from server in json format and then showing to app after parsing data </li>
 <li> PNR refers to "Passenger Number Record"</li>
+<ul>
 </p>
 
 Screenshot
